@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "git": "^0.1.5",
+    "node": "^20.7.0"
+  },
+  "name": "desplieguerender",
+  "version": "1.0.0",
+  "description": "proyecto prueba",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js"
+  },
+  "author": "Javier",
+  "license": "ISC"
+}
